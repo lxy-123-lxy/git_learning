@@ -1,0 +1,7 @@
+cat
+
+dog
+
+octopus
+
+octocat
