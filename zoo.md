@@ -2,6 +2,6 @@ cat
 
 dog
 
-octopus
+octoman
 
 octocat
